@@ -1,6 +1,6 @@
 let currentQuestion = 1;
 const answers = {};
-const redirectUrl = 'https://www.google.com/url?q=https://shop.salus-inc.com/lp?u%3Dts_test_250716_LCP_LUZLIM_SD&sa=D&source=editors&ust=1757669077620439&usg=AOvVaw34lUjha0hI4eKfi5WLAG5r';
+const redirectUrl = 'https://shop.salus-inc.com/lp?u=ts_test_250716_LCP_LUZLIM_SD';
 
 // カスタムカーソルの初期化
 function initCursor() {
